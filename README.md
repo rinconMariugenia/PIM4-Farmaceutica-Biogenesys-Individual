@@ -1,1 +1,2 @@
-Proyecto integrador elaborado para el modulo 4 de la carrera Data Analyst.
+Proyecto integrador elaborado para el modulo 4 de la carrera Data Analyst de Henry.<br>
+Dedicado al análisis para identificar las ubicaciones óptimas en Latinoamérica para la expansión de laboratorios farmacéuticos, basándose en el análisis de datos de incidencia de COVID-19, tasas de vacunación, y la disponibilidad de infraestructuras sanitarias, para optimizar la respuesta a los efectos de la pandemia y postpandemia con el fin de mejorar el acceso a las vacunas.
