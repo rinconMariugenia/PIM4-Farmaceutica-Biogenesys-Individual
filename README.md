@@ -3,7 +3,7 @@
 > 🧪 **Proyecto Integrador | Módulo 4 - Data Analyst - Henry**
 
 <p align="center">
-  <img src="assets/Logo_Biogenesys.png" alt="Vista del dashboard" width="500" heigh="500"/>
+  <img src="assets/Logo_Biogenesys.png" alt="Vista del dashboard" width="500" height="500"/>
 </p>
 
 ## 📊 Descripción del Proyecto
