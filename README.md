@@ -2,6 +2,8 @@
 
 > 🧪 **Proyecto Integrador | Módulo 4 - Data Analyst - Henry**
 
+> ![Vista del Dashboard](assets/Portada_Biogenesys.png)
+
 ## 📊 Descripción del Proyecto
 
 Este proyecto fue desarrollado como parte del **módulo final de la carrera Data Analyst de Henry**, con el objetivo de aplicar de forma integral técnicas de análisis de datos a un problema real de salud pública con impacto regional.
