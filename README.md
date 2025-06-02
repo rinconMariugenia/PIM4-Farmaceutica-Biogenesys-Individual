@@ -2,7 +2,7 @@
 
 > 🧪 **Proyecto Integrador | Módulo 4 - Data Analyst - Henry**
 
-> ![Vista del Dashboard](assets/Portada_Biogenesys.png)
+> ![Vista del Dashboard](assets/Logo_Biogenesys.png)
 
 ## 📊 Descripción del Proyecto
 
