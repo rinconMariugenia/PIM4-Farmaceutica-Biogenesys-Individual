@@ -20,7 +20,6 @@ Todo esto con el fin de **mejorar el acceso a vacunas** y optimizar la respuesta
 
 - **Power BI** para visualización interactiva de los datos  
 - **Excel / Power Query** para limpieza y transformación inicial  
-- Fuentes de datos públicas: *Our World in Data, OMS, Banco Mundial*, entre otras  
 - Diseño guiado por principios de **dashboard storytelling** y **visual analytics**
 
 ---
